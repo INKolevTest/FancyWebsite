@@ -1,4 +1,0 @@
-[submodule "BootstrapThemes"]
-	path = BootstrapThemes
-	url = https://github.com/INKolevTest/BootstrapThemes.git
-	branch = master
