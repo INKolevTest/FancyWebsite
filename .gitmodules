@@ -1,0 +1,3 @@
+[submodule "Source/Web/Web/Content/BootstrapThemes"]
+	path = Source/Web/Web/Content/BootstrapThemes
+	url = https://github.com/INKolevTest/BootstrapThemes.git
