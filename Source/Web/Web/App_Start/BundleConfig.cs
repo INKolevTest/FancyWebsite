@@ -24,7 +24,7 @@ namespace Web
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/BootstrapThemes/Themes/cyborg.css",
                       "~/Content/site.css"));
 
             //bundles.Add(new StyleBundle("~/Content/css").Include(
